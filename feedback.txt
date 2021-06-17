@@ -1,0 +1,15 @@
+Final mark: 97.5/100
+General remarks
+Thanks for the submission.
+Question 1
+Mark: 30/30 
+Comment: * Essay well discussed and justified reading.
+Question 2
+Mark: 24.5/25 
+Comment: * project proposal is written well. Some discussions in fair ML implementation could have been more clear but in general satisfactory.
+Question 3
+Mark: 35/35 
+Comment: * source code is very good.
+Question 4
+Mark: 8/10 
+Comment: * source code is very good.
