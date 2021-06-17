@@ -13,7 +13,10 @@ The project was expected to be delivered alongside a 3 page report which outline
 
 The report can be found in [project_report.pdf](https://github.com/boyla950/bias_in_ai_coursework/blob/main/project_report.pdf).
 
+## Essay
+It was also required to submit a 1-page essay which reviewed a selected paper on the topic of Bias in AI and presented my own views on the future of the field.
+
 ## Feedback
-Full feedback for the assignment can be found in [feedback.txt](https://github.com/boyla950/bias_in_ai_coursework/blob/main/feedback.txt). The final mark received was **98%**.
+Full feedback for the assignment can be found in [feedback.txt](https://github.com/boyla950/bias_in_ai_coursework/blob/main/feedback.txt). The final mark received was **97.5%**.
 
 > By [boyla950](https://github.com/boyla950).
