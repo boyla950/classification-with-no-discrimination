@@ -1,4 +1,4 @@
-# Bias in AI Coursework
+# Bias in AI - Gender Bias in Income Prediction
 
 ## Description
 
